@@ -1,0 +1,130 @@
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Engine: JAVASCRIPT
+Setting up Java Library...
+Setting up FML Library...
+Setting up NEI Library...
+Setting up CreativeTab library...
+Found creative tab: tabBloodMagic
+Found creative tab: misc
+Found creative tab: tabGeneral
+Found creative tab: tabArtifacts
+Found creative tab: Automagy
+Found creative tab: tab.backpacks
+Found creative tab: materials
+Found creative tab: tools
+Found creative tab: Botania
+Found creative tab: CarpentersBlocks
+Found creative tab: decorations
+Found creative tab: enchiridion
+Found creative tab: buildingBlocks
+Found creative tab: forbidden
+Found creative tab: combat
+Found creative tab: mobcrystal
+Found creative tab: tabGrowthCraft
+Found creative tab: tabGrCCellar
+Found creative tab: tabHardcoreEnderExpansion
+Found creative tab: Hardcore Questing Mode
+Found creative tab: jabba
+Found creative tab: natura.plants
+Found creative tab: transportation
+Found creative tab: redstone
+Found creative tab: natura.nether
+Found creative tab: natura.trees
+Found creative tab: food
+Found creative tab: Nether Ores
+Found creative tab: tabOpenBlocks
+Found creative tab: Random Things
+Found creative tab: RefinedRelocation
+Found creative tab: soul_shards_reborn
+Found creative tab: TConstructBlocks
+Found creative tab: TConstructWeaponry
+Found creative tab: TConstructParts
+Found creative tab: TConstructTools
+Found creative tab: TConstructMaterials
+Found creative tab: TConstructEquipables
+Found creative tab: TMechworks
+Found creative tab: thaumcraft
+Found creative tab: ThaumicTinkerer
+Found creative tab: brewing
+Found creative tab: thermalfoundation.creativeTab
+Found creative tab: thermalfoundation.creativeTabArmor
+Found creative tab: thermalfoundation.creativeTabTools
+Found creative tab: twilightForest
+Found creative tab: aobd
+Found creative tab: bluepower:machines
+Found creative tab: bluepower:tools
+Found creative tab: bluepower:blocks
+Found creative tab: bluepower:items
+Found creative tab: bluepower:lighting
+Found creative tab: tabWoodChiselBlocks
+Found creative tab: tabModdedChiselBlocks
+Found creative tab: tabStoneChiselBlocks
+Found creative tab: tabOtherChiselBlocks
+Found creative tab: tabChisel
+Found creative tab: tabMetalChiselBlocks
+Found creative tab: Eureka
+Found creative tab: ganysend
+Found creative tab: ganysnether
+Found creative tab: ganyssurface
+Found creative tab: tabHarvestCraft2
+Found creative tab: tabHarvestCraft3
+Found creative tab: tabHarvestCraft
+Found creative tab: magicalcrops
+Found creative tab: inventoryGenerators
+Found creative tab: structureTools
+Found creative tab: brewcraft.big
+Found creative tab: brewcraft.misc
+Found creative tab: brewcraft.potions
+Found creative tab: brewcraft.vials
+Found creative tab: tabWitchery
+Found creative tab: xreliquary
+Setting up ForgeMicroblock Library...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: vanilla.js
+hide called. Params: minecraft, portal
+Regex match found! minecraft:portal matches minecraft:portal.
+Found ItemStack minecraft:portal. 64xtile.portal@0
+hide called. Params: minecraft, end_portal
+Regex match found! minecraft:end_portal matches minecraft:end_portal.
+Found ItemStack minecraft:end_portal. 64xtile.null@0
+hide called. Params: minecraft, fire
+Regex match found! minecraft:fire matches minecraft:fire.
+Found ItemStack minecraft:fire. 64xtile.fire@0
+hide called. Params: minecraft, water
+Regex match found! minecraft:water matches minecraft:water.
+Found ItemStack minecraft:water. 64xtile.water@0
+hide called. Params: minecraft, lava
+Regex match found! minecraft:lava matches minecraft:lava.
+Found ItemStack minecraft:lava. 64xtile.lava@0
+hide called. Params: minecraft, mob_spawner
+Regex match found! minecraft:mob_spawner matches minecraft:mob_spawner.
+Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
+override called. Params: minecraft, potion, 0
+Regex match found! minecraft:potion matches minecraft:potion.
+Found ItemStack minecraft:potion. 1xitem.potion@0
+override called. Params: minecraft, spawn_egg, 0
+Regex match found! minecraft:spawn_egg matches minecraft:spawn_egg.
+Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
+Loading: ThermalExpansion.js
+Loading: Mekanism.js
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: tile.Darkleaves2
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves2
+Loading: ExtraUtilities.js
+Loading: BuildCraft.js
+Loading: Bibliocraft.js
+Loading: AppliedEnergistics2.js
+Loading: Tcon.js
+override called. Params: TConstruct, tool*, 0
+Regex match found! TConstruct:tool* matches TConstruct:toolRod.
+Regex match found! TConstruct:tool* matches TConstruct:toolShard.
+Found ItemStack TConstruct:toolRod. 64xitem.tconstruct.ToolRod@0
+Found ItemStack TConstruct:toolShard. 64xitem.tconstruct.ToolShard@0
+override called. Params: TConstruct, binding, 0
+Regex match found! TConstruct:binding matches TConstruct:binding.
+Found ItemStack TConstruct:binding. 64xitem.tconstruct.Binding@0
+override called. Params: TConstruct, scytheBlade, 0
+Regex match found! TConstruct:scytheBlade matches TConstruct:scytheBlade.
+Found ItemStack TConstruct:scytheBlade. 64xitem.tconstruct.ScytheHead@0
+Loading: MFR.js

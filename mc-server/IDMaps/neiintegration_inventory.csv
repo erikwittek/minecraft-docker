@@ -1,0 +1,8 @@
+Slot,Display Name,Amount,Damage,Max Damage,Item ID,Unlocalized Name,Item Class,NBT
+0,OpenComputers Manual,1,98,0,OpenComputers:item,item.oc.Manual,li.cil.oc.common.init.Items$$anon$1,
+1,Soul Chunk Claimer,1,0,0,Sanguimancy:chunkClaimer,item.Sanguimancy.chunkClaimer,tombenpotter.sanguimancy.items.ItemChunkClaimer,
+2,Delving into the Darkness,1,0,0,guideapi:ItemGuideBook,item.GuideBook.0,amerifrance.guideapi.items.ItemGuideBook,
+3,Engineering Diary,1,0,0,eureka:engineeringDiary,item.engineeringDiary,eureka.items.ItemEngineeringDiary,
+4,Materials and You: Volume 1,1,0,0,TConstruct:manualBook,item.tconstruct.manual.beginner,tconstruct.tools.items.Manual,
+5,Encyclopedia Aura,1,0,0,aura:lexicon,item.lexicon,pixlepix.auracascade.item.ItemLexicon,{}
+6,Quest Book,1,0,0,HardcoreQuesting:quest_book,item.hqm:quest_book_0,hardcorequesting.items.ItemQuestBook,

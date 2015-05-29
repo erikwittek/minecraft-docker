@@ -1,0 +1,1269 @@
+
+================
+Scrap Tables
+================
+
+Weight table [Core: Decomposition|Scrap None] (total weight 32):
+==========================================================
+ 65.6% (  21) <Nothing>
+ 21.9% (   7) Recycling Debris
+  3.1% (   1) Keep Item
+  6.3% (   2) Dust Item
+  3.1% (   1) Inferior Scrap
+
+Weight table [No Core|Scrap None] (total weight 100):
+==========================================================
+ 80.0% (  80) <Nothing>
+ 20.0% (  20) Recycling Debris
+
+Weight table [Core: Decomposition|Poor Scrap] (total weight 233):
+==========================================================
+ 20.2% (  47) <Nothing>
+ 19.7% (  46) Recycling Debris
+ 26.6% (  62) Keep Item
+ 26.6% (  62) Dust Item
+  5.2% (  12) Inferior Scrap
+  1.7% (   4) Scrap
+
+Weight table [No Core|Poor Scrap] (total weight 231):
+==========================================================
+ 33.8% (  78) <Nothing>
+ 33.3% (  77) Recycling Debris
+ 13.9% (  32) Inferior Scrap
+ 10.4% (  24) Scrap
+  8.7% (  20) Superior Scrap
+
+Weight table [Core: Decomposition|Standard Scrap] (total weight 226):
+==========================================================
+ 15.0% (  34) <Nothing>
+ 15.0% (  34) Recycling Debris
+ 27.4% (  62) Keep Item
+ 27.4% (  62) Dust Item
+  3.5% (   8) Inferior Scrap
+ 10.6% (  24) Scrap
+  0.9% (   2) Superior Scrap
+
+Weight table [No Core|Standard Scrap] (total weight 228):
+==========================================================
+ 28.5% (  65) <Nothing>
+ 28.5% (  65) Recycling Debris
+ 12.3% (  28) Inferior Scrap
+ 21.1% (  48) Scrap
+  9.6% (  22) Superior Scrap
+
+Weight table [Core: Decomposition|Superior Scrap] (total weight 225):
+==========================================================
+  7.6% (  17) <Nothing>
+  7.1% (  16) Recycling Debris
+ 27.6% (  62) Keep Item
+ 27.6% (  62) Dust Item
+  1.8% (   4) Inferior Scrap
+  7.1% (  16) Scrap
+ 21.3% (  48) Superior Scrap
+
+Weight table [No Core|Superior Scrap] (total weight 223):
+==========================================================
+ 21.5% (  48) <Nothing>
+ 21.1% (  47) Recycling Debris
+ 10.8% (  24) Inferior Scrap
+ 16.1% (  36) Scrap
+ 30.5% (  68) Superior Scrap
+
+Weight table [Core: Extraction|Poor Scrap] (total weight 300):
+==========================================================
+ 40.0% ( 120) <Nothing>
+ 20.0% (  60) Scrap
+  3.3% (  10) Bone Meal
+  3.3% (  10) Pulverized Coal
+  3.3% (  10) Pulverized Charcoal
+  3.3% (  10) Sulfur
+  6.7% (  20) Pulverized Iron
+  6.7% (  20) Pulverized Tin
+  6.7% (  20) Pulverized Copper
+  6.7% (  20) Pulverized Ferrous Metal
+
+Weight table [Core: Extraction|Standard Scrap] (total weight 260):
+==========================================================
+ 30.0% (  78) <Nothing>
+ 20.0% (  52) Superior Scrap
+  3.8% (  10) Pulverized Coal
+  3.8% (  10) Niter
+  7.7% (  20) Pulverized Iron
+  7.7% (  20) Pulverized Tin
+  7.7% (  20) Pulverized Copper
+  7.7% (  20) Pulverized Silver
+  7.7% (  20) Pulverized Lead
+  3.8% (  10) Pulverized Gold
+
+Weight table [Core: Extraction|Superior Scrap] (total weight 183):
+==========================================================
+ 39.9% (  73) <Nothing>
+ 10.9% (  20) Pulverized Silver
+ 10.9% (  20) Pulverized Gold
+ 10.9% (  20) Pulverized Shiny Metal
+ 10.9% (  20) Electrum Blend
+  5.5% (  10) Signalum Blend
+  5.5% (  10) Lumium Blend
+  5.5% (  10) Enderium Blend
+
+==========================
+Scrapbox Use Effect Tables
+==========================
+
+Weight table [Poor Effects] (total weight 1868):
+==========================================================
+ 21.4% ( 400) No Effect
+  5.4% ( 100) Drop Item [Grass Block] (up to 1)
+  5.4% ( 100) Drop Item [Steak] (up to 4)
+ 16.1% ( 300) Drop Item [Inferior Scrap] (up to 1)
+  8.0% ( 150) Drop Item [Scrap] (up to 1)
+  2.7% (  50) Drop Item [Superior Scrap] (up to 1)
+ 10.7% ( 200) Experience Orb [7]
+  2.7% (  50) Experience Orb [15]
+  0.5% (  10) Experience Orb [30]
+  2.7% (  50) Enchanted Book [enchant level 10]
+ 16.1% ( 300) Chest Loot [dungeonChest]
+  8.0% ( 150) Player Potion Effect [random] (duration: 15s; amplifier: 0; no bad: true)
+  0.3% (   5) Drop Item [Diamond] (up to 1)
+  0.2% (   3) Drop Item [Emerald] (up to 1)
+
+Weight table [Standard Effects] (total weight 2250):
+==========================================================
+ 11.1% ( 250) No Effect
+  7.6% ( 170) Drop Item [Inferior Scrap] (up to 1)
+ 13.3% ( 300) Drop Item [Scrap] (up to 1)
+  7.6% ( 170) Drop Item [Superior Scrap] (up to 1)
+  8.9% ( 200) Bonus +2
+  2.2% (  50) Enchanted Book [enchant level 20]
+  2.2% (  50) Experience Orb [7]
+  8.9% ( 200) Experience Orb [15]
+  2.2% (  50) Experience Orb [30]
+  8.9% ( 200) Chest Loot [dungeonChest]
+ 13.3% ( 300) Chest Loot [mineshaftCorridor]
+  6.7% ( 150) Player Potion Effect [random] (duration: 60s; amplifier: 1; no bad: true)
+  4.4% ( 100) Drop Item [Diamond] (up to 1)
+  2.7% (  60) Drop Item [Emerald] (up to 1)
+
+Weight table [Superior Effects] (total weight 1960):
+==========================================================
+  2.6% (  50) No Effect
+  2.6% (  50) Drop Item [Inferior Scrap] (up to 1)
+  7.7% ( 150) Drop Item [Scrap] (up to 1)
+ 15.3% ( 300) Drop Item [Superior Scrap] (up to 1)
+ 10.2% ( 200) Bonus +1
+  0.5% (  10) Experience Orb [7]
+  2.6% (  50) Experience Orb [15]
+ 10.2% ( 200) Experience Orb [30]
+  2.6% (  50) Enchanted Book [enchant level 30]
+ 10.2% ( 200) Chest Loot [mineshaftCorridor]
+ 15.3% ( 300) Chest Loot [strongholdCrossing]
+  7.7% ( 150) Player Potion Effect [random] (duration: 120s; amplifier: 2; no bad: true)
+  7.7% ( 150) Drop Item [Diamond] (up to 1)
+  4.6% (  90) Drop Item [Emerald] (up to 1)
+  0.5% (  10) Drop Item [Nether Star] (up to 1)
+
+Known Thermal Recycler Recipes:
+=================================================================
+[1x Diamond Boots] => [4x Diamond] | preserve output false
+[1x Turbine Rotor] => [3x Turbine Disk] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[8x Diamond Transport Pipe] => [2x Diamond] | preserve output false
+[1x Mailbox] => [3x Tin Ingot, 1x Sturdy Casing, 3x Chest] | preserve output false
+[1x Trade Station] => [2x Iron Electron Tube, 3x Bronze Electron Tube, 1x Sturdy Casing, 2x Chest, 1x Refined Circuit Board] | preserve output false
+[32x .name] => [1x Sawdust] | preserve output false
+[1x Diamond Gear] => [4x Diamond, 1x Gold Gear] | preserve output false
+[1x Sequoia Wood] => [1x Sawdust] | preserve output false
+[1x Dimensional Transceiver] => [4x Electrical Steel, 1x Ender Resonator, 2x Fused Quartz, 1x Ender Crystal, 1x Octadic Capacitor] | preserve output false
+[1x Dark Boots] => [4x Dark Steel] | preserve output false
+[8x Elevator Track] => [6x Advanced Rail, 2x Redstone, 1x Standard Rail] | preserve output false
+[1x Adventurer's Woven Backpack] => [7x Woven Silk, 1x Diamond, 1x Adventurer's Backpack] | preserve output false
+[1x Steel Boots] => [4x Steel Ingot] | preserve output false
+[1x Tank Cart] => [1x Iron Tank Gauge, 1x Minecart] | preserve output false
+[1x Golden Sword] => [2x Gold Ingot] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Chest] => [4x Blaze Rod, 1x Chest, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[1x Ender Tank] => [4x Blaze Rod, 1x Cauldron, 1x Ender Pearl] | preserve output false
+[16x Dark Iron Bars] => [6x Dark Steel] | preserve output false
+[1x Treealyzer] => [4x Copper Ingot, 2x Redstone, 1x Diamond] | preserve output false
+[1x Redstone Crystal] => [1x Block of Redstone] | preserve output false
+[1x Enchanter] => [2x Diamond, 1x Book, 4x Dark Steel] | preserve output false
+[1x Survivalist's Pickaxe] => [3x Tinker's Alloy Ingot] | preserve output false
+[1x Anvil] => [3x Block of Iron, 4x Iron Ingot] | preserve output false
+[1x Alveary] => [8x Scented Paneling, 1x Impregnated Casing] | preserve output false
+[1x Swarmer] => [4x Diamantine Electron Tube, 2x Gold Ingot, 1x Alveary] | preserve output false
+[1x Alveary Fan] => [4x Iron Ingot, 1x Alveary, 1x Golden Electron Tube] | preserve output false
+[1x Alveary Heater] => [2x Golden Electron Tube, 1x Iron Ingot, 1x Alveary] | preserve output false
+[1x Alveary Hygroregulator] => [2x Iron Ingot, 1x Alveary] | preserve output false
+[1x Alveary Stabiliser] => [6x Nether Quartz, 1x Alveary] | preserve output false
+[1x Alveary Sieve] => [3x Iron Ingot, 1x Alveary, 3x Woven Silk] | preserve output false
+[8x Sapling] => [1x Sawdust] | preserve output false
+[1x Flint and Steel] => [1x Iron Ingot] | preserve output false
+[1x Redstone Chipset] => [1x Redstone] | preserve output false
+[1x Iron Chipset] => [1x Redstone, 1x Iron Ingot] | preserve output false
+[1x Golden Chipset] => [1x Redstone, 1x Gold Ingot] | preserve output false
+[1x Diamond Chipset] => [1x Redstone, 1x Diamond] | preserve output false
+[2x Pulsating Chipset] => [1x Ender Pearl, 1x Redstone] | preserve output false
+[1x Quartz Chipset] => [1x Redstone, 1x Nether Quartz] | preserve output false
+[1x Redstone Comp Chipset] => [1x Redstone Comparator, 1x Redstone] | preserve output false
+[1x Emerald Chipset] => [1x Redstone, 1x Emerald] | preserve output false
+[1x Sticky Piston] => [1x Slimeball, 1x Piston] | preserve output false
+[16x Wheat] => [1x Sawdust] | preserve output false
+[1x Item Conduit Speed Upgrade] => [3x Iron Ingot, 4x Electrical Steel, 1x Piston, 1x Redstone Torch] | preserve output false
+[1x Item Conduit Speed Downgrade] => [3x Iron Ingot, 4x Electrical Steel, 1x Slimeball] | preserve output false
+[1x Mod Item Filter] => [1x Yeta Wrench] | preserve output false
+[8x Oak Sapling] => [1x Sawdust] | preserve output false
+[1x Steel Helmet] => [5x Steel Ingot] | preserve output false
+[1x Apiarist's Backpack] => [1x Apiarist's Chest] | preserve output false
+[1x item.Facade] => [1x Red Pipe Wire, 1x Redstone Chipset] | preserve output false
+[1x Golden Leggings] => [7x Gold Ingot] | preserve output false
+[1x Painting Machine] => [2x Nether Quartz, 1x Diamond, 5x Electrical Steel, 1x Machine Chassis] | preserve output false
+[1x Golden Shovel] => [1x Gold Ingot] | preserve output false
+[1x Assembly Table] => [1x Redstone, 1x Diamond, 1x Diamond Gear] | preserve output false
+[1x Advanced Crafting Table] => [1x Chest, 1x Redstone Chipset] | preserve output false
+[1x Integration Table] => [1x Redstone, 1x Redstone Chipset, 1x Diamond Gear] | preserve output false
+[1x Charging Table] => [1x Redstone, 1x Redstone Chipset, 1x Gold Gear] | preserve output false
+[1x Programming Table] => [1x Redstone, 1x Emerald, 1x Diamond Gear] | preserve output false
+[1x Controller Circuit] => [1x Redstone Repeater, 1x Slimeball, 1x Gold Ingot, 2x Redstone] | preserve output false
+[1x Receiver Circuit] => [1x Redstone Repeater, 1x Slimeball, 1x Gold Ingot, 2x Redstone] | preserve output false
+[1x Signal Circuit] => [1x Redstone Repeater, 1x Slimeball, 1x Gold Ingot, 2x Redstone] | preserve output false
+[1x Greatwood Log] => [1x Sawdust] | preserve output false
+[1x Silverwood Log] => [1x Sawdust] | preserve output false
+[1x Builder's Backpack] => [2x Clay, 1x Chest] | preserve output false
+[1x Bleached Clay] => [1x Clay] | preserve output false
+[1x Apiarist's Pants] => [7x Woven Silk] | preserve output false
+[1x Track Layer Cart] => [1x Redstone Lamp, 2x Anvil, 1x Block of Steel, 2x Dispenser, 1x Minecart] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[8x Emerald Transport Pipe] => [2x Emerald] | preserve output false
+[16x Carrot] => [1x Sawdust] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[8x Daizuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Diamond] | preserve output false
+[1x Land Mark] => [1x Redstone Torch] | preserve output false
+[1x Hunter's Woven Backpack] => [7x Woven Silk, 1x Diamond, 1x Hunter's Backpack] | preserve output false
+[1x Attractor Obelisk] => [1x Enticing Crystal, 2x Energetic Alloy, 3x Soularium, 1x Machine Chassis] | preserve output false
+[1x Work Cart] => [1x Minecart] | preserve output false
+[16x Pumpkin] => [1x Sawdust] | preserve output false
+[1x Weighted Pressure Plate (Light)] => [2x Gold Ingot] | preserve output false
+[1x Infuser] => [2x Tinker's Alloy Ingot, 1x Iron Ingot] | preserve output false
+[1x Analyzer] => [4x Tinker's Alloy Ingot, 1x Beealyzer, 1x Sturdy Casing] | preserve output false
+[1x Apiarist's Shirt] => [8x Woven Silk] | preserve output false
+[4x Wooden Post] => [1x Wooden Tie] | preserve output false
+[8x Stone Post] => [3x Rebar] | preserve output false
+[1x Wooden Platform] => [1x Creosote Block Slab, 1x Wooden Post] | preserve output false
+[1x Stone Platform] => [1x Concrete Slab, 1x Stone Post] | preserve output false
+[4x tile.railcraft.post.metal.unpainted.platform.name] => [1x Iron Slab, 1x tile.railcraft.post.metal.unpainted.name] | preserve output false
+[1x Steel Hoe] => [2x Steel Ingot] | preserve output false
+[16x Mushroom] => [1x Sawdust] | preserve output false
+[1x Signal Block Surveyor] => [1x Compass, 1x Redstone] | preserve output false
+[8x Unknown] => [1x Sawdust] | preserve output false
+[1x Hardened Conduit Facade] => [4x Pulverized Obsidian, 1x Conduit Facade] | preserve output false
+[1x Diamond Shovel] => [1x Diamond] | preserve output false
+[1x Basic Item Filter] => [1x Hopper] | preserve output false
+[1x Advanced Item Filter] => [4x Redstone, 1x Z-Logic Controller] | preserve output false
+[1x Bottler] => [4x Can, 1x Sturdy Casing] | preserve output false
+[1x Carpenter] => [6x Tinker's Alloy Ingot, 1x Sturdy Casing] | preserve output false
+[1x Centrifuge] => [6x Copper Ingot, 1x Sturdy Casing] | preserve output false
+[1x Fermenter] => [4x Tinker's Alloy Gear, 1x Sturdy Casing] | preserve output false
+[1x Moistener] => [4x Copper Gear, 1x Sturdy Casing] | preserve output false
+[1x Squeezer] => [6x Tin Ingot, 1x Sturdy Casing] | preserve output false
+[1x Still] => [4x Redstone, 1x Sturdy Casing] | preserve output false
+[1x Rainmaker] => [4x Tin Gear, 1x Hardened Casing] | preserve output false
+[1x Bronze Gear] => [4x Tinker's Alloy Ingot, 1x Stone Gear] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Fluid Pipe] => [1x Pipe Sealant, 1x Emerald Transport Pipe] | preserve output false
+[1x Trackman's Goggles] => [1x Receiver Circuit, 2x Steel Ingot, 3x Leather] | preserve output false
+[1x Power Monitor] => [6x Electrical Steel, 1x Conduit Probe, 1x Machine Chassis, 1x Energy Conduit] | preserve output false
+[1x Blueprint Library] => [8x Blueprint] | preserve output false
+[1x Cocobolo Wood (Fireproof)] => [1x Sawdust] | preserve output false
+[1x Jukebox] => [1x Diamond] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[8x Emzuli Transport Pipe] => [1x Lapis Lazuli Block, 1x Emerald] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Fluid Pipe] => [1x Pipe Sealant, 1x Iron Transport Pipe] | preserve output false
+[8x Binder Composite] => [1x Clay] | preserve output false
+[1x Pulsating Crystal] => [8x Pulsating Iron Nugget, 1x Diamond] | preserve output false
+[1x Vibrant Crystal] => [8x Vibrant Alloy Nugget, 1x Emerald] | preserve output false
+[5x Dark Steel Ball] => [5x Dark Steel] | preserve output false
+[1x Lime Wood] => [1x Sawdust] | preserve output false
+[1x Wireless Powered Light] => [1x Powered Light, 1x Ender Resonator] | preserve output false
+[1x Wireless Powered Light (Inverted)] => [1x Powered Light (Inverted), 1x Ender Resonator] | preserve output false
+[1x Anchor Cart] => [1x World Anchor, 1x Minecart] | preserve output false
+[2x Oak Wood Planks] => [1x Sawdust] | preserve output false
+[1x Requester] => [4x Iron Ingot, 1x Piston, 2x Iron Gear, 1x Chest, 1x Redstone] | preserve output false
+[1x Diamond Sword] => [2x Diamond] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[8x Lazuli Transport Pipe] => [2x Lapis Lazuli Block] | preserve output false
+[4x Iron Stairs] => [6x Block of Iron] | preserve output false
+[4x Gold Stairs] => [6x Block of Gold] | preserve output false
+[4x Diamond Stairs] => [6x Block of Diamond] | preserve output false
+[4x Copper Stairs] => [6x Block of Copper] | preserve output false
+[4x Tin Stairs] => [6x Block of Tin] | preserve output false
+[4x Lead Stairs] => [6x Block of Lead] | preserve output false
+[4x Steel Stairs] => [6x Block of Steel] | preserve output false
+[1x Turbine Disk] => [8x Turbine Blade, 1x Block of Steel] | preserve output false
+[1x Pump] => [1x Tank, 1x Mining Well] | preserve output false
+[1x Soul Vial] => [1x Soularium, 3x Fused Quartz] | preserve output false
+[1x Sequoia Wood (Fireproof)] => [1x Sawdust] | preserve output false
+[1x Photovoltaic Cell] => [2x Energetic Alloy, 2x Fused Quartz, 2x Silicon, 2x Electrical Steel, 1x Daylight Sensor] | preserve output false
+[1x Advanced Photovoltaic Cell] => [2x Vibrant Alloy, 2x Enlightened Fused Quartz, 2x Vibrant Crystal, 2x Pulsating Iron, 1x Daylight Sensor] | preserve output false
+[1x Grafter] => [1x Tinker's Alloy Ingot] | preserve output false
+[1x Dark Helm] => [5x Dark Steel] | preserve output false
+[1x Leather Cap] => [5x Leather] | preserve output false
+[1x Apiarist's Shoes] => [4x Woven Silk] | preserve output false
+[1x Refinery] => [2x Redstone Torch, 3x Tank, 1x Diamond Gear] | preserve output false
+[1x Travel Anchor] => [4x Iron Ingot, 16x Conduit Binder, 1x Pulsating Crystal] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Kinesis Pipe] => [1x Redstone, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Gate Copier] => [1x Wrench, 1x Redstone Chipset] | preserve output false
+[1x Undercutter Cart] => [1x Redstone Lamp, 2x Piston, 1x Block of Steel, 1x Diamond Shovel, 1x Minecart, 1x Diamond Shovel] | preserve output false
+[1x Iron Gear] => [4x Iron Ingot, 1x Stone Gear] | preserve output false
+[1x Zone Planner] => [4x Iron Ingot, 1x Redstone, 2x Gold Gear, 1x Diamond Gear] | preserve output false
+[1x TNT Cart] => [1x TNT, 1x Minecart] | preserve output false
+[8x Iron Tank Wall] => [4x Iron Plate] | preserve output false
+[8x Iron Tank Gauge] => [4x Iron Plate] | preserve output false
+[8x Iron Tank Valve] => [4x Iron Plate, 4x Iron Bars, 1x Lever] | preserve output false
+[1x Low Pressure Boiler Tank] => [2x Iron Plate] | preserve output false
+[1x High Pressure Boiler Tank] => [2x Steel Plate] | preserve output false
+[1x Liquid Fueled Boiler Firebox] => [4x Steel Plate, 1x Bucket, 2x Iron Bars] | preserve output false
+[1x Hobbyist's Steam Engine] => [3x Gold Nugget, 2x Gold-Plate Gear, 1x Piston] | preserve output false
+[1x Commercial Steam Engine] => [3x Iron Plate, 2x Iron Gear, 1x Piston] | preserve output false
+[1x Industrial Steam Engine] => [3x Steel Plate, 2x Steel Gear, 1x Piston] | preserve output false
+[1x Anchor Sentinel] => [1x Ender Pearl, 1x Gold Ingot] | preserve output false
+[1x Void Chest] => [1x Ender Pearl] | preserve output false
+[1x Metals Chest] => [4x Steel Gear, 4x Piston, 1x Anvil] | preserve output false
+[8x Steel Tank Wall] => [4x Steel Plate] | preserve output false
+[8x Steel Tank Gauge] => [4x Steel Plate] | preserve output false
+[8x Steel Tank Valve] => [4x Steel Plate, 4x Iron Bars, 1x Lever] | preserve output false
+[2x tile.for.planks2.32767] => [1x Sawdust] | preserve output false
+[1x Cherry Wood] => [1x Sawdust] | preserve output false
+[1x Water Bucket] => [1x Bucket] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Iron Kinesis Pipe] => [1x Redstone, 1x Iron Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x Emerald Kinesis Pipe] => [1x Redstone, 1x Emerald Transport Pipe] | preserve output false
+[1x tile.for.log8.32767] => [1x Sawdust] | preserve output false
+[2x Lens (Black)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Red)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Green)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Brown)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Blue)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Purple)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Cyan)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Light Gray)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Gray)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Pink)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Lime)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Yellow)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Light Blue)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Magenta)] => [1x Iron Ingot] | preserve output false
+[2x Lens (Orange)] => [1x Iron Ingot] | preserve output false
+[2x Lens (White)] => [1x Iron Ingot] | preserve output false
+[2x Filter (Black)] => [1x Iron Bars] | preserve output false
+[2x Filter (Red)] => [1x Iron Bars] | preserve output false
+[2x Filter (Green)] => [1x Iron Bars] | preserve output false
+[2x Filter (Brown)] => [1x Iron Bars] | preserve output false
+[2x Filter (Blue)] => [1x Iron Bars] | preserve output false
+[2x Filter (Purple)] => [1x Iron Bars] | preserve output false
+[2x Filter (Cyan)] => [1x Iron Bars] | preserve output false
+[2x Filter (Light Gray)] => [1x Iron Bars] | preserve output false
+[2x Filter (Gray)] => [1x Iron Bars] | preserve output false
+[2x Filter (Pink)] => [1x Iron Bars] | preserve output false
+[2x Filter (Lime)] => [1x Iron Bars] | preserve output false
+[2x Filter (Yellow)] => [1x Iron Bars] | preserve output false
+[2x Filter (Light Blue)] => [1x Iron Bars] | preserve output false
+[2x Filter (Magenta)] => [1x Iron Bars] | preserve output false
+[2x Filter (Orange)] => [1x Iron Bars] | preserve output false
+[2x Filter (White)] => [1x Iron Bars] | preserve output false
+[1x Builder's WovenBackpack] => [7x Woven Silk, 1x Diamond, 1x Builder's Backpack] | preserve output false
+[1x Chargeable Item Filter] => [1x Conduit Probe] | preserve output false
+[1x Redstone Repeater] => [2x Redstone Torch, 1x Redstone] | preserve output false
+[8x Redstone Conduit] => [3x Redstone Alloy] | preserve output false
+[1x Conduit Switch] => [4x Conduit Binder, 1x Redstone Conduit] | preserve output false
+[8x Insulated Redstone Conduit] => [6x Conduit Binder, 3x Redstone Alloy] | preserve output false
+[1x Cherry Wood (Fireproof)] => [1x Sawdust] | preserve output false
+[1x Filler] => [1x Land Mark, 2x Gold Gear, 1x Chest] | preserve output false
+[32x Melon Seeds] => [1x Sawdust] | preserve output false
+[1x Steel Shovel] => [1x Steel Ingot] | preserve output false
+[1x Tin Gear] => [4x Tin Ingot, 1x Stone Gear] | preserve output false
+[1x Steel Sword] => [2x Steel Ingot] | preserve output false
+[1x Cut Firestone] => [1x Diamond Pickaxe, 1x Diamond Pickaxe, 1x Raw Firestone, 1x Diamond Pickaxe, 1x Diamond Pickaxe] | preserve output false
+[1x Bituminous Peat] => [2x Ash, 2x Peat, 1x Propolis] | preserve output false
+[1x Survivalist's Shovel] => [1x Tinker's Alloy Ingot] | preserve output false
+[12x Dark Steel Ladder] => [3x Dark Iron Bars] | preserve output false
+[1x Golden Railway Ticket] => [1x Gold Nugget] | preserve output false
+[16x Iron Bars] => [6x Iron Ingot] | preserve output false
+[1x Iron Chestplate] => [8x Iron Ingot] | preserve output false
+[1x Papaya Wood] => [1x Sawdust] | preserve output false
+[16x Apple] => [1x Sawdust] | preserve output false
+[1x Furnace Cart] => [1x Minecart] | preserve output false
+[16x Booster Track] => [6x Advanced Rail, 1x Wooden Railbed, 1x Redstone] | preserve output false
+[1x Iron Boots] => [4x Iron Ingot] | preserve output false
+[1x Wooden Tie] => [1x Creosote Capsule] | preserve output false
+[1x Stone Tie] => [1x Rebar] | preserve output false
+[1x Iron Bore Head] => [8x Steel Ingot, 1x Block of Iron] | preserve output false
+[1x Docking Station] => [3x Iron Ingot, 1x Golden Chipset] | preserve output false
+[1x Signal Lamp] => [1x Redstone] | preserve output false
+[1x Diamond Pickaxe] => [3x Diamond] | preserve output false
+[1x Balsa Wood (Fireproof)] => [1x Sawdust] | preserve output false
+[32x Seeds] => [1x Sawdust] | preserve output false
+[1x Stone Gear] => [1x Wood Gear] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Fluid Pipe] => [1x Pipe Sealant, 1x Wooden Transport Pipe] | preserve output false
+[1x Flood Gate] => [4x Iron Ingot, 1x Iron Gear, 3x Iron Bars, 1x Tank] | preserve output false
+[1x Laser] => [5x Redstone, 2x Diamond] | preserve output false
+[32x Track] => [6x Standard Rail, 1x Wooden Railbed] | preserve output false
+[1x Iron Leggings] => [7x Iron Ingot] | preserve output false
+[1x Adventurer's Backpack] => [1x Chest] | preserve output false
+[2x tile.for.fireproofPlanks1.32767] => [1x Sawdust] | preserve output false
+[1x Miner's Backpack] => [2x Iron Ingot, 1x Chest] | preserve output false
+[1x Gold Gear] => [4x Gold Ingot, 1x Iron Gear] | preserve output false
+[1x Path Mark] => [1x Redstone Torch] | preserve output false
+[1x Crowbar] => [3x Iron Ingot] | preserve output false
+[1x Thermionic Fabricator] => [4x Gold Ingot, 1x Sturdy Casing, 1x Chest] | preserve output false
+[1x Raintank] => [6x Iron Ingot, 1x Sturdy Casing] | preserve output false
+[1x Worktable] => [1x Book, 1x Chest] | preserve output false
+[1x Dark Plate] => [8x Dark Steel] | preserve output false
+[1x Leather Boots] => [4x Leather] | preserve output false
+[1x Wooden Railbed] => [4x Wooden Tie] | preserve output false
+[1x Stone Railbed] => [4x Stone Tie] | preserve output false
+[1x Peat-fired Engine] => [3x Copper Ingot, 2x Copper Gear, 1x Piston] | preserve output false
+[1x Biogas Engine] => [3x Tinker's Alloy Ingot, 2x Tinker's Alloy Gear, 1x Piston] | preserve output false
+[1x Clockwork Engine] => [1x Copper Gear, 1x Piston, 1x Clock] | preserve output false
+[1x Reinforced Obsidian] => [4x Dark Steel, 4x Dark Iron Bars] | preserve output false
+[1x Steel Leggings] => [7x Steel Ingot] | preserve output false
+[1x Diamond Hoe] => [2x Diamond] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Fluid Pipe] => [1x Pipe Sealant, 1x Diamond Transport Pipe] | preserve output false
+[6x Iron Wall] => [6x Block of Iron] | preserve output false
+[6x Gold Wall] => [6x Block of Gold] | preserve output false
+[6x Diamond Wall] => [6x Block of Diamond] | preserve output false
+[1x Personal Anchor Cart] => [1x Personal Anchor, 1x Minecart] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[8x Stripes Transport Pipe] => [2x Gold Gear] | preserve output false
+[1x Wrench] => [4x Tinker's Alloy Ingot] | preserve output false
+[1x Copper Gear] => [4x Copper Ingot, 1x Stone Gear] | preserve output false
+[1x Experience Obelisk] => [1x Experience Rod, 3x Soularium, 1x Machine Chassis] | preserve output false
+[1x Rubber Wood] => [1x Sawdust] | preserve output false
+[12x Can] => [3x Tin Ingot] | preserve output false
+[1x Farm Block] => [2x Copper Ingot, 1x Tin Electron Tube] | preserve output false
+[1x Farm Gearbox] => [1x Farm Block, 3x Tin Gear] | preserve output false
+[1x Farm Hatch] => [1x Farm Block, 2x Tin Gear] | preserve output false
+[1x Farm Valve] => [1x Farm Block, 1x Tin Gear] | preserve output false
+[1x Farm Control] => [1x Farm Block, 2x Redstone, 1x Golden Electron Tube] | preserve output false
+[1x Hardened Casing] => [4x Diamond, 1x Sturdy Casing] | preserve output false
+[1x Steel Chestplate] => [8x Steel Ingot] | preserve output false
+[4x ME Conduit] => [6x Conduit Binder, 2x Fluix Crystal, 1x Quartz Fiber] | preserve output false
+[1x Dense ME Conduit] => [5x Conduit Binder, 4x ME Conduit] | preserve output false
+[1x Aversion Obelisk] => [1x Tormented Enderman Head, 2x Energetic Alloy, 3x Soularium, 1x Machine Chassis] | preserve output false
+[1x Machine Chassis] => [4x Iron Bars, 4x Iron Ingot, 1x Basic Capacitor] | preserve output false
+[8x Sacred Rubber Sapling] => [1x Sawdust] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Fluid Pipe] => [1x Pipe Sealant, 1x Sandstone Transport Pipe] | preserve output false
+[1x SAG Mill] => [4x Iron Ingot, 1x Machine Chassis, 1x Piston] | preserve output false
+[1x Apiarist's Hat] => [5x Woven Silk] | preserve output false
+[1x Steel Shears] => [2x Steel Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[8x Golden Transport Pipe] => [2x Gold Ingot] | preserve output false
+[1x Redstone Comparator] => [3x Redstone Torch, 1x Nether Quartz] | preserve output false
+[1x Golden Helmet] => [5x Gold Ingot] | preserve output false
+[1x Enhanced Circuit Board] => [6x Redstone, 3x Tinker's Alloy Ingot] | preserve output false
+[1x Refined Circuit Board] => [6x Redstone, 3x Iron Ingot] | preserve output false
+[1x Signal Tuner] => [1x Redstone Torch, 1x Receiver Circuit] | preserve output false
+[1x Track Relayer Cart] => [1x Redstone Lamp, 2x Blaze Rod, 1x Block of Steel, 1x Diamond Pickaxe, 1x Minecart, 1x Diamond Pickaxe] | preserve output false
+[1x Brewing Stand] => [1x Blaze Rod] | preserve output false
+[1x Construction Mark] => [1x Gold Gear, 1x Redstone Torch] | preserve output false
+[1x Diamond Leggings] => [7x Diamond] | preserve output false
+[1x Wooden TNT Cart] => [1x TNT] | preserve output false
+[16x Cactus] => [1x Sawdust] | preserve output false
+[1x Leather Tunic] => [8x Leather] | preserve output false
+[1x Shovel Kit] => [1x Survivalist's Shovel, 1x Carton] | preserve output false
+[1x Filtered Buffer] => [1x Diamond Transport Pipe, 1x Chest, 1x Piston] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[8x Quartz Transport Pipe] => [2x Block of Quartz] | preserve output false
+[1x Woven Trackman's Backpack] => [7x Woven Silk, 1x Diamond, 1x Trackman's Backpack] | preserve output false
+[1x Minecart] => [5x Iron Ingot] | preserve output false
+[1x Builder] => [1x Land Mark, 2x Diamond Gear, 1x Chest] | preserve output false
+[1x Weighted Pressure Plate (Heavy)] => [2x Iron Ingot] | preserve output false
+[1x Shears] => [2x Iron Ingot] | preserve output false
+[1x Iron Hoe] => [2x Iron Ingot] | preserve output false
+[1x Pickaxe Kit] => [3x Tinker's Alloy Ingot] | preserve output false
+[1x Trackman's Backpack] => [2x Track, 1x Chest] | preserve output false
+[1x Hunter's Backpack] => [1x Chest] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Structure Pipe] => [1x Cobblestone Transport Pipe] | preserve output false
+[1x Arborist Database] => [2x Gold Ingot, 2x Copper Ingot, 1x Emerald, 2x Redstone, 1x Diamond] | preserve output false
+[1x The Vat] => [4x Electrical Steel, 1x Cauldron, 2x Fluid Tank, 1x Machine Chassis] | preserve output false
+[1x Acacia Wood] => [1x Sawdust] | preserve output false
+[16x Sugar Canes] => [1x Sawdust] | preserve output false
+[1x Enchantment Table] => [1x Book, 2x Diamond] | preserve output false
+[1x Sturdy Casing] => [8x Tinker's Alloy Ingot] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Sandstone Kinesis Pipe] => [1x Redstone, 1x Sandstone Transport Pipe] | preserve output false
+[1x Wrench] => [3x Iron Ingot, 1x Stone Gear] | preserve output false
+[8x Red Pipe Wire] => [1x Redstone, 1x Iron Ingot] | preserve output false
+[8x Blue Pipe Wire] => [1x Redstone, 1x Iron Ingot] | preserve output false
+[8x Green Pipe Wire] => [1x Redstone, 1x Iron Ingot] | preserve output false
+[8x Yellow Pipe Wire] => [1x Redstone, 1x Iron Ingot] | preserve output false
+[1x Papaya Wood (Fireproof)] => [1x Sawdust] | preserve output false
+[32x Melon] => [1x Sawdust] | preserve output false
+[1x Standard Rail] => [8x Track] | preserve output false
+[6x Wooden Rail] => [1x Iron Ingot, 1x Wooden Tie] | preserve output false
+[1x Iron Axe] => [3x Iron Ingot] | preserve output false
+[1x Vacuum Chest] => [7x Iron Ingot, 1x Chest, 1x Pulsating Crystal] | preserve output false
+[1x Staff of Traveling] => [1x Ender Crystal, 2x Dark Steel] | preserve output false
+[16x Mushroom] => [1x Sawdust] | preserve output false
+[1x Citrus Wood (Fireproof)] => [1x Sawdust] | preserve output false
+[1x Redstone Lamp] => [4x Redstone, 1x Glowstone] | preserve output false
+[1x Steel Pickaxe] => [3x Steel Ingot] | preserve output false
+[1x Digger's Woven Backpack] => [7x Woven Silk, 1x Diamond, 1x Digger's Backpack] | preserve output false
+[1x Leather Pants] => [7x Leather] | preserve output false
+[1x Powered Spawner] => [4x Electrical Steel, 1x Machine Chassis, 2x Vibrant Crystal, 1x Z-Logic Controller] | preserve output false
+[1x Golden Axe] => [3x Gold Ingot] | preserve output false
+[1x Whistle Tuner] => [6x Steel Nugget] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Kinesis Pipe] => [1x Redstone, 1x Quartz Transport Pipe] | preserve output false
+[1x Redstone Engine] => [2x Wood Gear, 1x Piston] | preserve output false
+[1x Stirling Engine] => [2x Stone Gear, 1x Piston] | preserve output false
+[1x Combustion Engine] => [3x Iron Ingot, 2x Iron Gear, 1x Piston] | preserve output false
+[1x World Anchor] => [4x Gold Ingot, 2x Diamond, 1x Ender Pearl] | preserve output false
+[3x Steam Turbine Housing] => [4x Block of Steel, 4x Steel Plate] | preserve output false
+[1x Personal Anchor] => [4x Gold Ingot, 2x Emerald, 1x Ender Pearl] | preserve output false
+[4x Steam Oven] => [8x Steel Plate] | preserve output false
+[1x Smoker] => [2x Redstone, 1x Cauldron] | preserve output false
+[1x Trade Station] => [4x Steel Plate, 2x Emerald, 1x Dispenser] | preserve output false
+[1x Rolling Machine] => [4x Iron Ingot, 4x Piston] | preserve output false
+[1x Manual Steam Trap] => [1x Iron Bars, 1x High Pressure Boiler Tank, 1x Dispenser] | preserve output false
+[1x Automated Steam Trap] => [1x Iron Bars, 2x Redstone, 1x High Pressure Boiler Tank, 1x Dispenser] | preserve output false
+[1x Feed Station] => [1x Steel Plate] | preserve output false
+[4x Blast Furnace Brick] => [1x Magma Cream] | preserve output false
+[1x Passive Anchor] => [4x Gold Ingot, 1x Ender Pearl] | preserve output false
+[6x Water Tank Siding] => [2x Iron Ingot, 1x Slimeball] | preserve output false
+[4x Rock Crusher] => [4x Piston, 4x Diamond, 1x Block of Steel] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[1x Ender Pouch] => [3x Leather, 1x Ender Pearl] | preserve output false
+[4x Wax Capsule] => [3x Beeswax] | preserve output false
+[8x Greatwood Sapling] => [1x Sawdust] | preserve output false
+[8x Silverwood Sapling] => [1x Sawdust] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[1x Quartz Fluid Pipe] => [1x Pipe Sealant, 1x Quartz Transport Pipe] | preserve output false
+[2x Aromatic Lump] => [2x Pollen Cluster, 2x Royal Jelly, 1x Enchanting Drop] | preserve output false
+[1x Crafter] => [6x Iron Ingot, 1x Machine Chassis, 1x Z-Logic Controller] | preserve output false
+[1x Glistering Melon] => [8x Gold Nugget] | preserve output false
+[1x Iron Lantern] => [2x Iron Slab] | preserve output false
+[1x Gold Lantern] => [2x Gold Slab] | preserve output false
+[1x Copper Lantern] => [2x Copper Slab] | preserve output false
+[1x Tin Lantern] => [2x Tin Slab] | preserve output false
+[1x Lead Lantern] => [2x Lead Slab] | preserve output false
+[1x Steel Lantern] => [2x Steel Slab] | preserve output false
+[1x Octadic Capacitor] => [2x Vibrant Alloy, 2x Double-Layer Capacitor, 1x Glowstone] | preserve output false
+[2x tile.for.planks.32767] => [1x Sawdust] | preserve output false
+[1x Cauldron] => [7x Iron Ingot] | preserve output false
+[1x Fluid Tank] => [4x Iron Ingot, 4x Iron Bars] | preserve output false
+[1x Pressurized Fluid Tank] => [4x Dark Steel, 4x Dark Iron Bars, 1x Fused Quartz] | preserve output false
+[1x Oak Wood] => [1x Sawdust] | preserve output false
+[16x Activator Track] => [6x Standard Rail, 2x Redstone Torch, 1x Wooden Railbed] | preserve output false
+[32x Pumpkin Seeds] => [1x Sawdust] | preserve output false
+[1x Turbine Blade] => [3x Steel Ingot] | preserve output false
+[1x Beacon] => [1x Nether Star] | preserve output false
+[1x Yeta Wrench] => [3x Electrical Steel, 1x Basic Gear] | preserve output false
+[1x Iron Chest] => [1x Sorting Iron Chest] | preserve output false
+[1x Gold Chest] => [1x Sorting Gold Chest] | preserve output false
+[1x Diamond Chest] => [1x Sorting Diamond Chest] | preserve output false
+[1x Copper Chest] => [1x Sorting Copper Chest] | preserve output false
+[1x Silver Chest] => [1x Sorting Silver Chest] | preserve output false
+[1x Crystal Chest] => [1x Sorting Crystal Chest] | preserve output false
+[1x Obsidian Chest] => [1x Sorting Obsidian Chest] | preserve output false
+[1x Golden Chestplate] => [8x Gold Ingot] | preserve output false
+[1x Mining Well] => [6x Iron Ingot, 1x Redstone, 1x Iron Gear, 1x Iron Pickaxe] | preserve output false
+[1x Lepidopterist's Backpack] => [1x Lepidopterist's Chest] | preserve output false
+[1x Dark Pressure Plate] => [2x Dark Steel] | preserve output false
+[1x Dark Pressure Plate] => [1x Dark Pressure Plate] | preserve output false
+[4x Refractory Capsule] => [3x Refractory Wax] | preserve output false
+[1x Electric Meter] => [2x Tin Ingot, 1x Copper Ingot] | preserve output false
+[1x Basic Capacitor Bank] => [4x Iron Ingot, 4x Basic Capacitor, 1x Block of Redstone] | preserve output false
+[1x Capacitor Bank] => [4x Electrical Steel, 4x Double-Layer Capacitor, 1x Block of Redstone] | preserve output false
+[1x Vibrant Capacitor Bank] => [4x Electrical Steel, 4x Octadic Capacitor, 1x Vibrant Crystal] | preserve output false
+[1x Golden Hoe] => [2x Gold Ingot] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Fluid Pipe] => [1x Pipe Sealant, 1x Stone Transport Pipe] | preserve output false
+[8x Energy Conduit] => [6x Conduit Binder, 3x Conductive Iron] | preserve output false
+[8x Enhanced Energy Conduit] => [6x Conduit Binder, 3x Energetic Alloy] | preserve output false
+[8x Ender Energy Conduit] => [6x Conduit Binder, 3x Vibrant Alloy] | preserve output false
+[1x Diamond Axe] => [3x Diamond] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Wooden Kinesis Pipe] => [1x Redstone, 1x Wooden Transport Pipe] | preserve output false
+[1x Diamond Chestplate] => [8x Diamond] | preserve output false
+[1x Citrus Wood] => [1x Sawdust] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[8x Void Transport Pipe] => [1x Redstone] | preserve output false
+[1x Ender Chest] => [1x Eye of Ender] | preserve output false
+[2x Pillar Quartz Block] => [2x Block of Quartz] | preserve output false
+[1x Golden Boots] => [4x Gold Ingot] | preserve output false
+[1x Dark Leggings] => [7x Dark Steel] | preserve output false
+[1x Hopper Cart] => [1x Hopper, 1x Minecart] | preserve output false
+[1x Iron Helmet] => [5x Iron Ingot] | preserve output false
+[6x Unlit Candle] => [2x Magic Wax, 1x Silk Wisp] | preserve output false
+[1x Lit Candle] => [1x Lit Candle] | preserve output false
+[1x Diamond Helmet] => [5x Diamond] | preserve output false
+[1x Abyssal Stone Lantern] => [2x Abyssal Block] | preserve output false
+[1x Bleached Bone Stone Lantern] => [2x Bleached Bone Block] | preserve output false
+[1x Blood Stained Stone Lantern] => [2x Blood Stained Block] | preserve output false
+[1x Frostbound Stone Lantern] => [2x Frost Bound Block] | preserve output false
+[1x Infernal Stone Lantern] => [2x Infernal Block] | preserve output false
+[1x Nether Stone Lantern] => [2x Nether Block] | preserve output false
+[1x Quarried Stone Lantern] => [2x Quarried Block] | preserve output false
+[1x Sandy Stone Lantern] => [2x Sandy Block] | preserve output false
+[1x Balsa Wood] => [1x Sawdust] | preserve output false
+[1x Auto Workbench] => [4x Wood Gear] | preserve output false
+[1x Scented Gear] => [1x Royal Jelly, 2x Beeswax, 1x Wood Gear, 1x Pollen Cluster] | preserve output false
+[1x Chest Cart] => [1x Chest, 1x Minecart] | preserve output false
+[1x Item Loader] => [1x Hopper, 1x Detector - Item] | preserve output false
+[1x Item Unloader] => [1x Detector - Item, 1x Hopper] | preserve output false
+[1x Adv. Item Loader] => [4x Steel Ingot, 3x Redstone, 1x Item Loader, 1x Steel Shovel] | preserve output false
+[1x Adv. Item Unloader] => [4x Steel Ingot, 3x Redstone, 1x Item Unloader, 1x Steel Shovel] | preserve output false
+[1x Fluid Loader] => [1x Hopper, 1x Detector - Tank] | preserve output false
+[1x Fluid Unloader] => [1x Detector - Tank, 1x Hopper] | preserve output false
+[1x Cart Dispenser] => [1x Minecart, 1x Dispenser] | preserve output false
+[1x Train Dispenser] => [4x Redstone, 1x Crowbar, 1x Crowbar, 1x Cart Dispenser, 1x Crowbar, 1x Crowbar] | preserve output false
+[1x Flutterlyzer] => [4x Tinker's Alloy Ingot, 2x Redstone, 1x Diamond] | preserve output false
+[1x Clock] => [4x Gold Ingot, 1x Redstone] | preserve output false
+[6x Iron Slab] => [3x Block of Iron] | preserve output false
+[6x Gold Slab] => [3x Block of Gold] | preserve output false
+[6x Diamond Slab] => [3x Block of Diamond] | preserve output false
+[6x Copper Slab] => [3x Block of Copper] | preserve output false
+[6x Tin Slab] => [3x Block of Tin] | preserve output false
+[6x Lead Slab] => [3x Block of Lead] | preserve output false
+[6x Steel Slab] => [3x Block of Steel] | preserve output false
+[1x Soul Binder] => [4x Soularium, 1x Enderman Head, 1x Machine Chassis] | preserve output false
+[1x Chute] => [5x Iron Ingot, 1x Chest, 1x Stone Gear] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Fluid Pipe] => [1x Pipe Sealant, 1x Golden Transport Pipe] | preserve output false
+[1x Wireless Charger] => [7x Electrical Steel, 1x Ender Resonator, 1x Octadic Capacitor] | preserve output false
+[1x Forester's Backpack] => [1x Chest] | preserve output false
+[1x Straw Golem] => [1x Straw Golem, 1x Thinking Cap] | preserve output false
+[1x Wood Golem] => [1x Wood Golem, 1x Thinking Cap] | preserve output false
+[1x Tallow Golem] => [1x Tallow Golem, 1x Thinking Cap] | preserve output false
+[1x Clay Golem] => [1x Clay Golem, 1x Thinking Cap] | preserve output false
+[1x Flesh Golem] => [1x Flesh Golem, 1x Thinking Cap] | preserve output false
+[1x Stone Golem] => [1x Stone Golem, 1x Thinking Cap] | preserve output false
+[1x Iron Golem] => [1x Iron Golem, 1x Thinking Cap] | preserve output false
+[1x Thaumium Golem] => [1x Thaumium Golem, 1x Thinking Cap] | preserve output false
+[1x Existing Item Filter] => [3x Redstone, 1x Advanced Item Filter, 1x Redstone Comparator] | preserve output false
+[2x Reservoir] => [2x Fused Quartz, 1x Cauldron] | preserve output false
+[1x Electromagnet] => [2x Electrical Steel, 4x Conductive Iron, 1x Vibrant Crystal] | preserve output false
+[2x Greatwood Planks] => [1x Sawdust] | preserve output false
+[2x Silverwood Planks] => [1x Sawdust] | preserve output false
+[8x Fluid Conduit] => [6x Conduit Binder, 3x Quite Clear Glass] | preserve output false
+[8x Pressurized Fluid Conduit] => [6x Conduit Binder, 3x Fused Quartz] | preserve output false
+[8x Ender Fluid Conduit] => [6x Conduit Binder, 2x Fused Quartz, 1x Vibrant Alloy] | preserve output false
+[8x Item Conduit] => [6x Conduit Binder, 3x Pulsating Iron Nugget] | preserve output false
+[1x Architect Table] => [1x Land Mark, 2x Diamond Gear, 1x Blueprint] | preserve output false
+[1x Pulsating Mesh] => [5x Pulsating Propolis] | preserve output false
+[1x Woven Silk] => [9x Silk Wisp] | preserve output false
+[1x Scented Paneling] => [1x Royal Jelly, 2x Beeswax, 1x Pollen Cluster] | preserve output false
+[1x Genetics Processor] => [2x Diamond, 1x Pulsating Chipset, 2x Nether Quartz] | preserve output false
+[1x Spectacles] => [1x Tinker's Alloy Ingot] | preserve output false
+[1x Experience Rod] => [2x Soularium, 1x Energetic Alloy] | preserve output false
+[1x tile.for.fireproofLog8.32767] => [1x Sawdust] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[8x Iron Transport Pipe] => [2x Iron Ingot] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Stone Kinesis Pipe] => [1x Redstone, 1x Stone Transport Pipe] | preserve output false
+[1x Daylight Sensor] => [3x Nether Quartz] | preserve output false
+[1x Farming Station] => [4x Electrical Steel, 1x Diamond Hoe, 1x Machine Chassis, 2x Pulsating Crystal, 1x Z-Logic Controller] | preserve output false
+[1x Cocobolo Wood] => [1x Sawdust] | preserve output false
+[16x .name] => [1x Sawdust] | preserve output false
+[1x Steel Bore Head] => [8x Steel Ingot, 1x Block of Steel] | preserve output false
+[1x Steel Anvil] => [3x Block of Steel, 4x Steel Ingot] | preserve output false
+[1x Killer Joe] => [3x Dark Steel, 5x Fused Quartz, 1x Frank'N'Zombie] | preserve output false
+[1x Ender IO] => [4x Electrical Steel, 4x Fused Quartz, 1x Eye of Ender] | preserve output false
+[1x Iceman's Backpack] => [1x Chest] | preserve output false
+[1x Piston] => [1x Iron Ingot, 1x Redstone] | preserve output false
+[1x Woven Iceman's Backpack] => [7x Woven Silk, 1x Diamond, 1x Iceman's Backpack] | preserve output false
+[1x Stirling Generator] => [2x Basic Gear, 1x Piston] | preserve output false
+[1x Chunk Loader] => [1x Ender Pearl, 5x Gold Ingot, 1x Enchantment Table] | preserve output false
+[10x Spot Loader] => [8x Ender Pearl, 1x Chunk Loader] | preserve output false
+[1x Electric Feeder Unit] => [4x Tin Plate, 5x Copper Ingot] | preserve output false
+[1x Force Track Emitter] => [4x Tin Plate, 4x Copper Ingot, 1x Block of Diamond] | preserve output false
+[2x Flux Transformer] => [4x Copper Plate, 4x Gold Ingot, 1x Block of Redstone] | preserve output false
+[1x Engraving Bench] => [1x Diamond Pickaxe, 4x Steel Plate, 1x Book, 2x Piston] | preserve output false
+[16x Potato] => [1x Sawdust] | preserve output false
+[1x Golden Pickaxe] => [3x Gold Ingot] | preserve output false
+[1x Combustion Generator] => [3x Electrical Steel, 2x Fluid Tank, 1x Machine Chassis, 2x Basic Gear, 1x Piston] | preserve output false
+[1x Enviromental Processor] => [2x Diamond, 1x Golden Chipset] | preserve output false
+[1x Dark Steel Anvil] => [3x Dark Steel Block, 4x Dark Steel] | preserve output false
+[2x tile.for.fireproofPlanks2.32767] => [1x Sawdust] | preserve output false
+[1x Tunnel Bore] => [2x Block of Steel, 2x Minecart, 1x Chest Cart] | preserve output false
+[1x Redstone Torch] => [1x Redstone] | preserve output false
+[1x Apothecary's Backpack] => [1x Chest] | preserve output false
+[1x Apiary Refiller module] => [1x Pollen Cluster, 2x Redstone, 2x Propolis, 1x Wooden Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Cobblestone Fluid Pipe] => [1x Pipe Sealant, 1x Cobblestone Transport Pipe] | preserve output false
+[1x Iron Sword] => [2x Iron Ingot] | preserve output false
+[1x Digger's Backpack] => [1x Chest] | preserve output false
+[9x Coal Coke] => [1x Block of Coal Coke] | preserve output false
+[1x Steel Axe] => [3x Steel Ingot] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Diamond Kinesis Pipe] => [1x Redstone, 1x Diamond Transport Pipe] | preserve output false
+[1x Lepidopterist Database] => [2x Gold Ingot, 2x Tinker's Alloy Ingot, 1x Emerald, 2x Redstone, 1x Diamond] | preserve output false
+[1x Detector - Advanced] => [8x Steel Ingot] | preserve output false
+[1x Detector - Villager] => [8x Leather] | preserve output false
+[1x Detector - Locomotive] => [8x Infernal Brick] | preserve output false
+[1x Detector - Routing] => [8x Chiseled Quartz Block] | preserve output false
+[1x Robot] => [5x Iron Ingot, 1x Redstone Crystal, 2x Diamond Chipset] | preserve output false
+[16x Detector Track] => [6x Standard Rail, 1x Wooden Railbed, 1x Redstone] | preserve output false
+[1x Diamond Bore Head] => [8x Steel Ingot, 1x Block of Diamond] | preserve output false
+[1x Quarry] => [3x Iron Gear, 1x Redstone, 2x Gold Gear, 2x Diamond Gear, 1x Diamond Pickaxe] | preserve output false
+[1x Glider Wing] => [3x Dark Steel, 3x Leather] | preserve output false
+[1x Glider Wings] => [2x Dark Steel, 2x Glider Wing] | preserve output false
+[2x Launcher Track] => [4x Reinforced Rail, 2x Stone Railbed, 2x Block of Steel, 1x Piston] | preserve output false
+[32x Wooden Track] => [6x Wooden Rail, 1x Wooden Railbed] | preserve output false
+[16x Reinforced Junction Track] => [8x Reinforced Rail, 1x Stone Railbed] | preserve output false
+[32x H.S. Track] => [6x H.S. Rail, 1x Stone Railbed] | preserve output false
+[16x Wye Track] => [8x Standard Rail, 1x Wooden Railbed] | preserve output false
+[16x Disposal Track] => [6x Standard Rail, 2x Wooden Tie, 1x Steel Plate] | preserve output false
+[16x Switch Track] => [8x Standard Rail, 1x Wooden Railbed] | preserve output false
+[16x H.S. Switch Track] => [8x H.S. Rail, 1x Stone Railbed] | preserve output false
+[16x Priming Track] => [6x Reinforced Rail, 1x Stone Railbed, 1x Flint and Steel] | preserve output false
+[16x Electric Switch Track] => [8x Electric Rail, 1x Stone Railbed] | preserve output false
+[16x Limiter Track] => [6x Standard Rail, 2x Redstone Repeater, 1x Wooden Railbed] | preserve output false
+[8x Gated Track] => [6x Standard Rail, 1x Wooden Railbed] | preserve output false
+[16x Wooden Switch Track] => [8x Wooden Rail, 1x Wooden Railbed] | preserve output false
+[16x Locking Track] => [6x Advanced Rail, 1x Redstone, 1x Wooden Railbed] | preserve output false
+[16x Disembarking Track] => [6x Advanced Rail, 1x Wooden Railbed, 1x Redstone] | preserve output false
+[16x H.S. Transition Track] => [6x H.S. Rail, 2x Redstone, 1x Stone Railbed] | preserve output false
+[16x Locomotive Track] => [6x Standard Rail, 2x Signal Lamp, 1x Wooden Railbed] | preserve output false
+[16x One-Way Track] => [6x Standard Rail, 1x Wooden Railbed, 1x Piston] | preserve output false
+[16x Buffer Stop Track] => [6x Standard Rail, 1x Wooden Railbed, 1x Block of Iron] | preserve output false
+[1x Block of Coal Coke] => [9x Coal Coke] | preserve output false
+[8x Block of Concrete] => [4x Rebar] | preserve output false
+[1x Creosote Wood Block] => [1x Creosote Capsule] | preserve output false
+[1x Bucket] => [3x Iron Ingot] | preserve output false
+[1x Signal Interlock Box] => [1x Receiver Circuit, 4x Iron Ingot, 1x Controller Circuit, 1x Redstone] | preserve output false
+[1x Dual-Head Block Signal] => [2x Signal Lamp, 1x Signal Circuit, 3x Iron Ingot, 1x Receiver Circuit] | preserve output false
+[1x Switch Motor] => [1x Piston, 1x Receiver Circuit, 1x Iron Ingot] | preserve output false
+[1x Block Signal] => [1x Signal Lamp, 1x Signal Circuit, 2x Iron Ingot] | preserve output false
+[1x Switch Lever] => [1x Piston, 1x Iron Ingot] | preserve output false
+[1x Routing Switch Motor] => [1x Switch Motor, 1x Detector - Routing] | preserve output false
+[1x Signal Sequencer Box] => [4x Iron Ingot, 1x Redstone Comparator, 1x Redstone] | preserve output false
+[1x Signal Capacitor Box] => [4x Iron Ingot, 1x Redstone Repeater, 1x Redstone] | preserve output false
+[1x Signal Receiver Box] => [4x Iron Ingot, 1x Receiver Circuit, 1x Redstone] | preserve output false
+[1x Signal Controller Box] => [4x Iron Ingot, 1x Controller Circuit, 1x Redstone] | preserve output false
+[1x Analog Signal Controller Box] => [4x Iron Ingot, 1x Controller Circuit, 1x Redstone Comparator] | preserve output false
+[1x Distant Signal] => [1x Signal Lamp, 1x Receiver Circuit, 2x Iron Ingot] | preserve output false
+[1x Dual-Head Distant Signal] => [2x Signal Lamp, 2x Receiver Circuit, 3x Iron Ingot] | preserve output false
+[1x Signal Block Relay Box] => [2x Signal Circuit, 4x Iron Ingot, 1x Redstone] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Void Fluid Pipe] => [1x Pipe Sealant, 1x Void Transport Pipe] | preserve output false
+[1x Compass] => [4x Iron Ingot, 1x Redstone] | preserve output false
+[1x Miner's Woven Backpack] => [7x Woven Silk, 1x Diamond, 1x Miner's Backpack] | preserve output false
+[6x Wire Support Frame] => [3x Iron Plate, 5x Rebar] | preserve output false
+[1x Track Remover Cart] => [1x Redstone Lamp, 2x Sticky Piston, 1x Block of Steel, 1x Reinforced Crowbar, 1x Minecart, 1x Reinforced Crowbar] | preserve output false
+[1x Zombie Generator] => [3x Electrical Steel, 5x Fused Quartz, 1x Zombie Electrode] | preserve output false
+[1x Reinforced Crowbar] => [3x Steel Ingot] | preserve output false
+[1x Alloy Smelter] => [4x Iron Ingot, 1x Machine Chassis, 1x Cauldron] | preserve output false
+[1x Refined Firestone] => [1x Lava Bucket, 4x Block of Redstone, 1x Lava Bucket, 1x Cut Firestone, 1x Lava Bucket, 1x Lava Bucket] | preserve output false
+[1x Beealyzer] => [4x Tin Ingot, 2x Redstone, 1x Diamond] | preserve output false
+[1x Iron Shovel] => [1x Iron Ingot] | preserve output false
+[1x Iron Pickaxe] => [3x Iron Ingot] | preserve output false
+[1x Impregnated Frame] => [8x Impregnated Stick] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Golden Kinesis Pipe] => [1x Redstone, 1x Golden Transport Pipe] | preserve output false
+[1x Habitat Locator] => [4x Tinker's Alloy Ingot, 1x Redstone] | preserve output false
+[1x Gold-Plate Gear] => [4x Gold Nugget, 1x Tin Gear Bushing] | preserve output false
+[1x Iron Gear] => [4x Iron Ingot, 1x Tin Gear Bushing] | preserve output false
+[1x Steel Gear] => [4x Steel Ingot, 1x Tin Gear Bushing] | preserve output false
+[2x Tin Gear Bushing] => [4x Tin Ingot] | preserve output false
+[1x Iron Door] => [6x Iron Ingot] | preserve output false
+=================================================================
