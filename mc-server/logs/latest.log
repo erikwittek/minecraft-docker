@@ -1,5 +1,61 @@
-[21:59:12] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[22:00:17] [Server thread/INFO]: Loading properties
-[22:00:17] [Server thread/INFO]: Default game type: SURVIVAL
-[22:00:17] [Server thread/INFO]: Generating keypair
-[22:00:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:05:20] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[00:06:21] [Server thread/INFO]: Loading properties
+[00:06:21] [Server thread/INFO]: Default game type: SURVIVAL
+[00:06:21] [Server thread/INFO]: Generating keypair
+[00:06:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:07:19] [Server thread/INFO]: Preparing level "world"
+[00:08:27] [Server thread/INFO]: Preparing start region for level 0
+[00:08:28] [Server thread/INFO]: Done (70.152s)! For help, type "help" or "?"
+[00:12:39] [User Authenticator #1/INFO]: UUID of player erikwittek is 78393e16-47ff-4789-93fc-7fbf636b4cc2
+[00:12:40] [Server thread/INFO]: erikwittek[/87.148.202.67:44013] logged in with entity id 304 at (-161.5, 59.0, 347.5)
+[00:12:40] [Server thread/INFO]: erikwittek joined the game
+[00:13:29] [User Authenticator #2/INFO]: UUID of player frOOps4U is 99aaac33-cdf7-4170-ae24-31ef98f9b722
+[00:13:30] [Server thread/INFO]: frOOps4U[/87.148.202.67:51969] logged in with entity id 2179 at (-166.5, 64.0, 355.5)
+[00:13:30] [Server thread/INFO]: frOOps4U joined the game
+[00:13:47] [Server thread/INFO]: erikwittek drowned
+[00:14:27] [Server thread/INFO]: erikwittek has just earned the achievement [Taking Inventory]
+[00:14:29] [Server thread/INFO]: frOOps4U has just earned the achievement [Taking Inventory]
+[00:15:29] [Server thread/INFO]: frOOps4U has just earned the achievement [Sky of Beginning]
+[00:16:17] [Server thread/INFO]: frOOps4U was killed by magic
+[00:16:37] [Server thread/INFO]: frOOps4U has just earned the achievement [Getting Wood]
+[00:16:44] [Server thread/INFO]: erikwittek was shot by Skeleton
+[00:17:02] [Server thread/INFO]: frOOps4U has just earned the achievement [Benchmarking]
+[00:17:31] [Server thread/INFO]: erikwittek has just earned the achievement [Getting Wood]
+[00:17:35] [Server thread/INFO]: frOOps4U has just earned the achievement [Time to Strike!]
+[00:17:48] [Server thread/INFO]: frOOps4U has just earned the achievement [Time to Mine!]
+[00:20:25] [Server thread/INFO]: frOOps4U has just earned the achievement [Monster Hunter]
+[00:21:39] [User Authenticator #3/INFO]: UUID of player nevswittek is 389adce2-537f-487a-96b2-2599b46c2bb3
+[00:21:40] [Server thread/INFO]: nevswittek[/87.148.202.67:49565] logged in with entity id 13851 at (-174.5, 68.0, 360.5)
+[00:21:40] [Server thread/INFO]: nevswittek joined the game
+[00:23:45] [Server thread/INFO]: nevswittek has just earned the achievement [Taking Inventory]
+[00:26:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2252ms behind, skipping 45 tick(s)
+[00:46:55] [Server thread/INFO]: erikwittek was shot by Skeleton
+[00:47:24] [Server thread/INFO]: frOOps4U has just earned the achievement [Getting an Upgrade]
+[00:47:40] [Server thread/INFO]: frOOps4U has just earned the achievement [Time to Farm!]
+[01:08:15] [Server thread/INFO]: erikwittek was shot by Skeleton
+[01:09:04] [Server thread/INFO]: erikwittek was slain by Spriggan
+[01:09:25] [Server thread/INFO]: frOOps4U was fireballed by Nine Tails
+[01:09:51] [Server thread/INFO]: nevswittek was killed by magic
+[01:10:00] [Server thread/INFO]: erikwittek was slain by frOOps4U
+[01:10:45] [Server thread/INFO]: frOOps4U was killed by magic
+[01:10:45] [Server thread/INFO]: erikwittek was slain by Mandragora
+[01:11:56] [Server thread/INFO]: erikwittek was killed by Witch using magic
+[01:12:08] [Server thread/INFO]: nevswittek was killed by Witch using magic
+[01:12:08] [Server thread/INFO]: frOOps4U was killed by Witch using magic
+[01:12:26] [Server thread/INFO]: erikwittek was killed by Witch using magic
+[01:12:49] [Server thread/INFO]: nevswittek was slain by Futakuchi-Onna
+[01:13:23] [Server thread/INFO]: nevswittek was burnt to a crisp whilst fighting Nine Tails
+[01:14:03] [Server thread/INFO]: erikwittek was killed by magic
+[01:14:18] [Server thread/INFO]: nevswittek was slain by Mandragora
+[01:14:43] [Server thread/INFO]: frOOps4U was fireballed by Nine Tails
+[01:14:53] [Server thread/INFO]: erikwittek was slain by Spriggan
+[01:14:55] [Server thread/INFO]: nevswittek was killed by magic
+[01:15:19] [Server thread/INFO]: nevswittek was slain by Nine Tails
+[01:15:35] [Server thread/INFO]: nevswittek was killed by magic
+[01:15:37] [Server thread/INFO]: erikwittek was slain by Spriggan
+[01:15:40] [Server thread/INFO]: frOOps4U was slain by Spriggan
+[01:16:12] [Server thread/INFO]: nevswittek was killed by magic
+[01:16:51] [Server thread/INFO]: nevswittek was killed by magic
+[01:16:55] [Server thread/INFO]: frOOps4U was killed by magic
+[01:17:40] [Server thread/INFO]: erikwittek lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:17:40] [Server thread/INFO]: erikwittek left the game
